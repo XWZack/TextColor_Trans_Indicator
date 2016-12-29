@@ -1,0 +1,2 @@
+# TextColor_Trans_Indicator
+仿网易新闻客户端顶部滑动字体颜色变化效果的ViewPager Indicator
